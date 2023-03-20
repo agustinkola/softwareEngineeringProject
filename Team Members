@@ -1,0 +1,38 @@
+  Software Engineering Project
+
+
+Team Members: 
+
+Anjeza Ndoci
+Agustin Kola
+Amarda Jamaku
+Alesia Jamaku
+Rugers Beci
+
+
+Team Leader: Anjeza Ndoci
+
+
+Distribution of main roles and tasks;
+
+Agustin Kola -   Front-end The app's user interface will be designed and developed by the developer using HTML, CSS, and JavaScript. Additionally, they will be in charge of putting user interactions into place and making sure the app is responsive and user-friendly.
+
+Anjeza Ndoci- Back-end The developer is in charge of creating the server-side Python logic for the application, as well as managing the database and adding user authentication and security measures.
+
+Amarda Jamaku-Middleware Developer: This person is in charge of creating the middleware, which links the front-end and back-end elements of the project. In addition to managing API requests, connecting other services, and guaranteeing data 
+consistency between the front-end and back-end, they will be in charge of these tasks.
+
+ Rugers Beci-The database developer is in charge of creating and maintaining the database's schema, as well as monitoring and improving
+
+Alesia Jamaku- Engineer in charge of quality assurance will test the app to make sure it complies with specifications and is error- and bug-free. They will collaborate closely with the database, middleware, front-end, and back-end engineers to test each part of the project and make sure it functions properly.
+
+
+
+
+
+
+Description of the application :
+
+This project introduces a software application to provide a new management system for the students and the advisors. Considering that doing this process manually takes  at least two applications, it became necessary to develop a software application that automates only a new one that both students and advisors can use. and facilitates this process. The aim of
+This project is to help universities or schools to provide a better way of finding them so that it is easily accessible by the students and that absences and grades are both clear.
+
